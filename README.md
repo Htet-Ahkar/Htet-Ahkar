@@ -33,13 +33,6 @@
 
 <br/>
 
-<a href="https://github.com/Htet-Ahkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Htet-Ahkar&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-Ahkar&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 
 ⭐️ From [Xero](https://github.com/Htet-Ahkar)
 
