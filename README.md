@@ -1,8 +1,15 @@
 ## Hello world 👋 I'm Htet Ahkar
 
-🚀 Frontend Developer | JavaScript Enthusiast | UI Craftsman
+🚀 Full Stack Developer | JavaScript Enthusiast | UI Craftsman
 
 > I’m a full-stack JavaScript developer from Myanmar, currently open to new opportunities. With over three years of experience in Angular and React-based projects, I enjoy building responsive, maintainable web apps with clean UI and solid code architecture.
+
+### 🌱 About Me
+
+- 🌍 Based in Thailand 🇹🇭 / Myanmar 🇲🇲
+- 🧠 Passionate about JavaScript, frontend architecture, and building modern user interfaces.
+- 💡 Enjoys solving UI/UX problems and learning new tools.
+- 🧪 Currently exploring SSR and API security in full-stack apps.
 
 ---
 
@@ -44,17 +51,8 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
-### 🌱 About Me
-
-- 🧠 Passionate about JavaScript, frontend architecture, and building modern user interfaces.
-- 🌍 Based in Thailand 🇹🇭 / Myanmar 🇲🇲
-- 💡 Enjoys solving UI/UX problems and learning new tools.
-- 🧪 Currently exploring SSR and API security in full-stack apps.
-
----
 
 <!-- ### 🧪 Notable Work
 
